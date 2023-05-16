@@ -1,16 +1,11 @@
 # expense_tracker
 
-A new Flutter project.
+Track your expense easily with expense tracker.
 
-## Getting Started
+## Features
+- Add expense
+- Remove expense with swipe right action
+- Expense visualization through chart.
+- Light/Dark Mode works as per system setting
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
